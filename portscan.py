@@ -1,6 +1,6 @@
 #!/bin/python
 import socket
-target = input("Enter targer IP address: ")
+target = input("Enter target IP address: ")
 start_port = int(input("Enter the start port number: "))
 end_port = int(input("Enter the end port number: "))
 
